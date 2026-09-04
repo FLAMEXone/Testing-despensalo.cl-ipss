@@ -1,4 +1,4 @@
-# 🧪 Evaluación de Calidad y Testing - Hito 2 (`despensalo.cl`)
+# 🧪 Evaluación de Calidad y Testing (despensalo.cl)
 
 Repositorio oficial que contiene las evidencias, planes de prueba y scripts de automatización correspondientes al **Hito 2** de aseguramiento de calidad (QA) para la plataforma web [despensalo.cl](https://despensalo.cl/).
 
